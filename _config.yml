@@ -1,11 +1,11 @@
 # Site settings
 title: Soph Soph Soph
-SEOTitle: Soph Blog
+SEOTitle: A Blog by Soph
 header-img: img/home-bg.jpg
 email: azrooh0610@gmail.com
 description: "아직 배우고 있는 중입니다. 따스하게 바라봐주세요 :)"
 keyword: ""
-url: ""
+url: "http://soph0610.github.io"
 baseurl: ""
 
 # Publish posts or collection documents with a future date.
