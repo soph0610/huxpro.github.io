@@ -187,7 +187,7 @@ public class UserDaoTest {
 
 코드를 실행시키면, 순수 자바 어플리케이션이었던 이전과 다른 로그를 확인 할 수 있다.
 
-```java
+```
 12월 04, 2018 4:13:16 오후 org.springframework.context.support.AbstractApplicationContext prepareRefresh
 정보: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2dda6444: startup date [Tue Dec 04 16:13:16 KST 2018]; root of context hierarchy
 12월 04, 2018 4:13:16 오후 org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
